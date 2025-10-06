@@ -1,6 +1,6 @@
 # Image Classification
 
-Цель проекта — выполнить supervised классификацию цветных изображений. Мы используем архитектуру Convolutional Neural Network (CNN) и применяем data augmentation и преобразования, чтобы распознавать класс изображения из заранее заданного набора из 10 классов.
+Цель проекта — выполнить классификацию цветных изображений. Мы используем архитектуру Convolutional Neural Network (CNN) и применяем data augmentation и преобразования, чтобы распознавать класс изображения из заранее заданного набора из 10 классов.
 
 ## Data Set ([CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html))
 В работе используется датасет [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) — широко применяемый бенчмарк в компьютерном зрении и machine learning Он служит стандартом для обучения и оценки алгоритмов image classification
